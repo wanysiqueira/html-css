@@ -1,0 +1,53 @@
+O que é Android, história, versões e evolução
+Em fevereiro de 2021, de cada 100 dispositivos que usam algum sistema operacional, mais de 40 fazem uso de alguma versão do Android.
+
+É o mais usado no mundo, considerando todas as plataformas, superando Windows, iOS, MacOS, Linux ou o sistema operacional que você conseguir se lembrar.
+
+São 15 anos desde que tudo começou, mas foi no já longínquo Março de 2017 que o sistema do robozinho verde alçou a posição de líder entre todos os sistemas operacionais (mobile ou desktop) e só a perdeu por algumas semanas em 2020.
+
+Conhecer um pouco da história dos smartphones e até do seu concorrente direto – o iOS – ajuda a entender sua trajetória de sucesso e sua importância na inclusão digital.
+
+História do Android
+Em janeiro de 2007 Steve Jobs anunciava a chegada do iPhone e em parte ajudou aquele que anos mais tarde viria a ser o sistema operacional mais usado no mundo.
+
+Até então, marcas como Blackberry, Nokia, Ericsson, Palm e Motorola, tinham seus próprios sistemas operacionais, os quais equipavam seus próprios aparelhos celulares.
+
+Mas segundo Steve Jobs, na apresentação do iPhone na MacWorld, realizada em São Francisco, os aparelhos celulares na época, eram grandes e pesados. Seus teclados físicos ocupavam muito espaço, tinham muitos botões que tornavam seu uso complicado e também por essa razão, tinham telas pequenas.
+
+Na apresentação ele até isolou uma imagem na qual apareciam quatro aparelhos da Motorola, Blackberry, Palm e Nokia e que mostrava que cerca de metade da área frontal dos aparelhos era reservada aos botões.
+
+Esse era o primeiro paradigma que o iPhone derrubava, ao abandonar os teclados físicos por meio de uma interface que permitia fazer tudo em uma tela maior e sensível ao toque. No uso de aplicativos que exigissem digitação, um teclado virtual e inteligente ficava disponível.
+
+Somado a isso, o aparelho era dotado de real capacidade de usar as funcionalidades e benefícios da Internet, como acesso a sites em um navegador web completo – o Safari – que exibia os sites de forma mais fiel às suas versões de telas grandes, coisa que as versões dos aparelhos “concorrentes” não eram capazes.
+
+Isso inclusive foi a mola propulsora para o desenvolvimento de sites em versão responsiva.
+
+As câmeras traseira e dianteira, ganharam ainda mais sentido, seja para a produção de vídeos e fotos, como o uso da dianteira para vídeo chamadas, já que as conexões 2.5G já começavam a se tornar acessíveis.
+
+Estavam definidos os padrões básicos do que seriam os smartphones a partir de então.
+
+O seu primeiro concorrente viria pouco mais de um ano depois, com a versão 1.0 do Android que equipava o celular HTC Dream. Era um aparelho com “defeitos”, como por exemplo, ainda a presença de um teclado físico deslizante (slide), embora já tivesse tela touch, que o tornava feio e desajeitado, especialmente se comparado ao iPhone.
+
+Essa primeira versão do Android assim como o aparelho da HTC, também carecia de melhorias.
+
+Mas as cartas já estavam na mesa e havia a sinalização de que a Apple não teria vida fácil.
+
+A origem do Android
+Ao contrário do que muita gente pensa, o Android não é criação do Google.
+
+Em 2005, o gigante de Mountain View que vinha comprando uma série de startups, comprou a empresa criadora do Android, uma empresa nascida em 2003, que inicialmente desenvolveu um sistema operacional inteligente para câmeras digitais, mas que logo enxergou um potencial maior no sistema, ampliando sua utilidade e características para que pudesse servir como sistema para celulares.
+
+Ao abandonar a ideia original e focar em um sistema para smartphones, a proposta era ser apenas mais uma opção em um mercado que tinha até o momento como principais nomes, o Symbian (Nokia) e Windows Mobile (Microsoft).
+
+Mas a compra por parte do Google, mudou um pouco os planos e pouco se sabe ao certo do que ocorreu naquele intervalo de tempo, exceto que um dos fundadores da empresa – o programador e desenvolvedor Andy Rubin – permaneceu a frente da equipe de desenvolvimento que usaria uma plataforma já conhecida.
+
+Quando o projeto veio à tona, soube-se que o kernel do sistema era – e ainda é – baseado no Linux.
+
+Isso trazia várias implicações, como o fato de ser Open Source e, portanto, poderia ser modificado e personalizado de acordo com os interesses e necessidades de outros fabricantes e mesmo da comunidade de programadores / usuários.
+
+Além disso, sabemos que o Linux permite distribuições extremamente enxutas, exigindo pouquíssimo espaço para instalação, bem como memória e processamento.
+
+O desenvolvimento do Android
+O lançamento e sucesso logo de início do iPhone e os conceitos que faziam parte do seu sistema operacional, deram o norte para que o Google conduzisse o desenvolvimento do Android, mas ele foi além.
+
+É importante entender como era o mercado de celulares até então.
