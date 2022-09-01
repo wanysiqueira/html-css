@@ -90,7 +90,7 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image:url('../joaninha2.jpg');
+    background-image:url('../imagens/joaninha2.jpg');
     background-position: center center
     
     
@@ -98,7 +98,7 @@ section#img01 {
 }
 
 section#img02 {
-    background-image: url('../escrito\ a\ mão1\ .jpg');
+    background-image: url('../imagens/escrito\ a\ mão1\ .jpg');
     background-size: cover;
 
 
